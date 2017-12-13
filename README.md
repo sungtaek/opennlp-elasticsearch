@@ -1,2 +1,2 @@
 # opennlp-elasticsearch
-apache opennlp elasticsearch plugin
+Apache OpenNLP POS Tagger plugin module into elasticsearch.
